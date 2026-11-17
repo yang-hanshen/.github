@@ -1,10 +1,10 @@
 # 注册 GitHub 账号
 
-1. 首先进入 [GitHub 官网的注册页面](https://github.com/signup)。`Sign up` 是注册，`Sign in` 是登录；如果已经有账号，直接登录即可，不要重复注册。
+1.1. 进入 [GitHub 官网注册页](https://github.com/signup)：`Sign up` 为注册，`Sign in` 为登录。已有账号直接登录，无需重复注册。
 
 2. 填写自己常用且能正常收信的邮箱（比如 [QQ](https://mail.qq.com/)、[163](https://mail.163.com/)、[Gmail](https://mail.google.com/mail?hl=zh-CN) 等）、密码和用户名。密码不要与其他网站重复，也不要发给他人；提交后按邮件提示完成验证。
 
-3. 注册完成后先确认能够正常登录，再在个人设置中检查邮箱是否已验证。之后 Fork 仓库、提交修改和接收通知都会使用这个账号。
+3. 3. 注册成功后，先确认可以正常登录，前往个人设置核对邮箱已验证。后续 Fork 仓库、提交修改、接收项目通知都将使用该账号。
 
 ![](../img/dev/sign_up.jpg)
 
