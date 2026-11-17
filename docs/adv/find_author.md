@@ -3,28 +3,28 @@
 该页面是为了解决当对某个文档页面有疑问想找到对应作者和源代码的问题。
 
 ## 寻找页面的作者
+以公众号文章为例，点击文末的阅读全文，跳转至对应的文档页面。
 
-以[公众号文章](https://mp.weixin.qq.com/s/HS6_iq1081vJjsdgrta8wQ)为例，点击末尾“阅读全文”跳转到[文档页面](https://openhutb.github.io/ros2/water/rov_trajectory_tracking)。
+![文章跳转](../img/adv/full_article.png)
 
-![](../img/adv/full_article.png)
+接着点击页面右上角的编辑页面。
 
-然后，点击页面右上角的“编辑页面”，
+![编辑页面按钮](../img/adv/edit_page.png)
 
-![](../img/adv/edit_page.png)
+页面会跳转至代码仓库的文件编辑界面。先确认仓库名称，再点击文件路径里的文件夹。
 
-将跳转到 GitHub 仓库的代码编辑页面。先确认页面显示的仓库名称，再点击文件路径中的文件夹：
+![仓库编辑界面](../img/adv/edit_tool.png)
 
-![](../img/adv/edit_tool.png)
+点击对应文档的文件名。
 
-点击上一步绿色框中的文件名（即页面所对应的 .md 文件）。
+![选中文档文件](../img/adv/file_edited.png)
 
-![](../img/adv/file_edited.png)
+打开页面右上角的历史记录。
 
-点击页面右上角的 `History`：
+![打开历史记录](../img/adv/click_history.png)
 
-![](../img/adv/click_history.png)
+历史记录里可以看到所有编辑过这份文档的人员与提交记录，同一份文档可能由多人共同维护。
 
-历史记录会显示编辑过该页面的用户名和对应提交；同一页面可能由多人维护。
 
 ### 用脚本一次看完（可选）
 
